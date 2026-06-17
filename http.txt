@@ -24,11 +24,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -38,11 +34,7 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -50,11 +42,7 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -95,8 +83,6 @@ https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrents.tmtime.dev:443/announce
 
