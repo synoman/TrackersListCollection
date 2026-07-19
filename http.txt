@@ -22,9 +22,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-http://nyaa.tracker.wf:7777/announce
+http://ns3109441.mypdns.org:6969/announce
 
-http://open.tracker.cl:1337/announce
+http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
@@ -47,6 +47,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
+
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
