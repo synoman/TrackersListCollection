@@ -38,9 +38,9 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentorrent.top:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.plx.im:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -63,6 +63,8 @@ https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
 
